@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0306e78-4b44-4242-9cef-8e231d2ec8b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/config/KafkaConsumerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/config/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/controllers/ChambreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/controllers/ChambreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/dto/ChambreDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/dto/ChambreDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/dto/HotelDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/dto/HotelDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/Chambre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/Chambre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/ChambreMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/ChambreMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/HotelClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/entity/HotelClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/repositories/ChambreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/repositories/ChambreRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/services/ChambreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/services/ChambreServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/services/IChambreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/java/com/example/chambre/services/IChambreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chambre/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chambre/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/config/KafkaProducerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/config/KafkaProducerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/config/Keycloak.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/config/Keycloak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/dto/HotelResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/dto/HotelDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/entities/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/entities/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/entities/HotelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/entities/HotelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/services/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/services/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/services/IHotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/java/com/example/hotelms/services/IHotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel-MS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel-MS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/dto/HotelResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/dto/HotelResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/services/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice/hotel-service/src/main/java/com/example/hotelms/services/HotelService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jPeYyJNyFbCkAhx6VbeTT70QO2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Hotel-MS/Dockerfile.executor": "Run",
+    "Docker.docker-compose.yml.api-gateway-server: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.chambre-ms: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.config-server: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.eureka-server: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.kafka: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.keycloak: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.mongodb: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.mysql: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.zookeeper: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "Maven.API-Gateway-Server [clean].executor": "Run",
+    "Maven.API-Gateway-Server [compile].executor": "Run",
+    "Maven.API-Gateway-Server [package].executor": "Run",
+    "Maven.Chambre [clean].executor": "Run",
+    "Maven.Chambre [compile].executor": "Run",
+    "Maven.Chambre [install].executor": "Run",
+    "Maven.Chambre [package].executor": "Run",
+    "Maven.Config-Server [clean].executor": "Run",
+    "Maven.Config-Server [compile].executor": "Run",
+    "Maven.Config-Server [package].executor": "Run",
+    "Maven.Eureka [clean].executor": "Run",
+    "Maven.Eureka [compile].executor": "Run",
+    "Maven.Eureka [package].executor": "Run",
+    "Maven.Eureka [validate].executor": "Run",
+    "Maven.Hotel-MS [clean].executor": "Run",
+    "Maven.Hotel-MS [compile].executor": "Run",
+    "Maven.Hotel-MS [install].executor": "Run",
+    "Maven.Hotel-MS [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ApiGatewayServerApplication.executor": "Run",
+    "Spring Boot.ChambreApplication.executor": "Run",
+    "Spring Boot.ConfigServerApplication.executor": "Run",
+    "Spring Boot.EurekaApplication.executor": "Run",
+    "Spring Boot.HotelMsApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Balssem.Zoghbi/OneDrive - Keyrus/Documents/microserviceF/Microservice-Projects/API-Gateway-Server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Balssem.Zoghbi\OneDrive - Keyrus\Documents\microserviceF\Microservice-Projects\API-Gateway-Server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.keycloak: Compose Deployment">
+    <configuration name="ApiGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="API-Gateway-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigatewayserver.ApiGatewayServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChambreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Chambre" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.chambre.ChambreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Hotel-MS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hotelms.HotelMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hotel-MS/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Hotel-MS/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.kafka: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="kafka" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.keycloak: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="keycloak" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.zookeeper: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="zookeeper" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.keycloak: Compose Deployment" />
+        <item itemvalue="Docker.Hotel-MS/Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.zookeeper: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.kafka: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0306e78-4b44-4242-9cef-8e231d2ec8b6" name="Changes" comment="" />
+      <created>1721293190960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721293190960</updated>
+      <workItem from="1721293192002" duration="8660000" />
+      <workItem from="1721392649756" duration="2193000" />
+      <workItem from="1721396522295" duration="10071000" />
+      <workItem from="1721411750954" duration="23292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

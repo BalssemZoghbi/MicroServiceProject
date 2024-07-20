@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf0db400-7864-4299-ae75-4dc09682aeaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chambre-MS/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/controllers/ExceptionControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/services/IHotelServiceRestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel-MS/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/ChambreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/controllers/ChambreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/controllers/ExceptionControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/dto/ChambreRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/entity/Chambre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/entity/TypeChambre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/repositories/ChambreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/services/ChambreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/services/IChambreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/java/com/example/chambre/services/IHotelServiceRestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chambre-service/src/test/java/com/example/chambre/ChambreApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/HotelMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/controllers/HotelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/dto/HotelRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/dto/HotelResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/entities/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/repository/HotelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/example/hotelms/services/HotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-service/src/test/java/com/example/hotelms/HotelMsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/ChambreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/ChambreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/controllers/ChambreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/controllers/ChambreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/dto/ChambreRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/dto/ChambreRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/entity/Chambre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/entity/Chambre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/entity/TypeChambre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/entity/TypeChambre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/repositories/ChambreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/repositories/ChambreRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/services/ChambreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/services/ChambreServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/java/com/example/chambre/services/IChambreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/java/com/example/chambre/services/IChambreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chambre/src/test/java/com/example/chambre/ChambreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chambre-MS/src/test/java/com/example/chambre/ChambreApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel-MS/src/main/java/com/example/hotelms/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel-MS/src/main/java/com/example/hotelms/controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel-MS/src/main/java/com/example/hotelms/services/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel-MS/src/main/java/com/example/hotelms/services/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel-MS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel-MS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jKZQzrUUqHWzWHT9M59Z0wxgsM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Alternance_esprit/2ALINFO10/Microservice-Projects/microservice/hotel-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Alternance_esprit\2ALINFO10\Microservice-Projects\microservice\hotel-service" />
+      <recent name="D:\Alternance_esprit\2ALINFO10\Microservice-Projects\microservice\chambre-service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf0db400-7864-4299-ae75-4dc09682aeaa" name="Changes" comment="" />
+      <created>1721137718577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721137718577</updated>
+      <workItem from="1721137719664" duration="13000" />
+      <workItem from="1721241752967" duration="4344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
